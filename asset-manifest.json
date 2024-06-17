@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/elinart90/wikie-frontend.git/static/css/main.43519c95.css",
+    "main.js": "/elinart90/wikie-frontend.git/static/js/main.31342a34.js",
+    "static/media/side 1.png": "/elinart90/wikie-frontend.git/static/media/side 1.02f0d3ce3863183d5e16.png",
+    "index.html": "/elinart90/wikie-frontend.git/index.html",
+    "main.43519c95.css.map": "/elinart90/wikie-frontend.git/static/css/main.43519c95.css.map",
+    "main.31342a34.js.map": "/elinart90/wikie-frontend.git/static/js/main.31342a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43519c95.css",
+    "static/js/main.31342a34.js"
+  ]
+}
